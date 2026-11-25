@@ -288,9 +288,10 @@ article:hover {
         -45deg,
         transparent,
         transparent 12px,
-        rgba(31, 58, 46, 0.05) 12px,
-        rgba(31, 58, 46, 0.05) 14px
+        rgba(31, 58, 46, 0.08) 12px,
+        rgba(31, 58, 46, 0.08) 14px
     );
+    background-attachment: fixed;
     display: flex;
     flex-direction: column;
     justify-content: center;
