@@ -398,6 +398,10 @@ footer .liens a:hover {
         order: 2;
     }
 
+    #accueil {
+        min-height: 50vh;
+    }
+
     .gauche,
     .droite {
         width: 100%;
@@ -419,6 +423,10 @@ footer .liens a:hover {
     article {
         flex-direction: column;
         gap: 10px;
+    }
+
+    #accueil {
+        min-height: 40vh;
     }
 
     #educations .droite,
